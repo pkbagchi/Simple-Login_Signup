@@ -1,1 +1,1 @@
-# Simple-Login_Signup
+# Simple Login_Signup with MySQL Database and NetBeans IDE
